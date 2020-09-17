@@ -146,7 +146,7 @@ showModal = ()=>{
           }}
         /><TextInput
           style={styles.formTextInput}
-          placeholder ={"Confrim Password"}
+          placeholder ={"Confirm Password"}
           secureTextEntry = {true}
           onChangeText={(text)=>{
             this.setState({
